@@ -8,7 +8,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import SearchBar from './Components/search_bar';
 
-const API_KEY = 'AIzaSyAdIBpFg5Jd07UMFaVicw99Xv_EOzNqnqE';
+const API_KEY = '';
 
 const App = () => {
     /* JSX : It's subset of javascript which is allow us to write what looks like html but behind the scene its javascript
