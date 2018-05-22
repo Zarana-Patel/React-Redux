@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# AJAX with Google Youtube API 
 
 
 
@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/Zarana-Patel/React-Redux.git
-> cd ReduxSimpleStarter
+> cd 2.AJAX with Google Youtube API
 > npm install
 > npm start
 ```
