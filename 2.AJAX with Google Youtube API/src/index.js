@@ -11,7 +11,7 @@ import SearchBar from './Components/search_bar';
 import VideoList from './Components/video_list';
 import VideoDetails from './Components/video_details';
 import YTSearch from 'youtube-api-search';
-const API_KEY = 'AIzaSyAdIBpFg5Jd07UMFaVicw99Xv_EOzNqnqE';
+const API_KEY = '';
 
 
 /*
